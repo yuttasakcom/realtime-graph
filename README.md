@@ -3,6 +3,9 @@
 ## Run
 
 ```
-# *หมายเหตุ อย่าลืม install package ใน root project และ clients
-$ npm run dev
+$ npm install && cd client && npm install && cd .. && npm run dev
 ```
+
+## Test
+
+http://localhost:8080
