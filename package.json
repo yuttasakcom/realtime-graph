@@ -1,0 +1,24 @@
+{
+  "name": "realtime-graph",
+  "version": "1.0.0",
+  "description": "realtime graph example",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natgooddev/realtime-graph.git"
+  },
+  "author": "korn chayapon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natgooddev/realtime-graph/issues"
+  },
+  "homepage": "https://github.com/natgooddev/realtime-graph#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
